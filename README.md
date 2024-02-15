@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NISHANTHR090
+- 👋 Hi, I’m @NISHANTHR
 - 👀 I’m interested in ...electronics and cumputer science
 - 🌱 I’m currently learning ... computer science
 - 💞️ I’m looking to collaborate on ...python
