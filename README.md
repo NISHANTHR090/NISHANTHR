@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NISHANTHR
-- 👀 I’m interested in ...electronics and cumputer science
-- 🌱 I’m currently learning ... computer science
+- 👀 I’m interested in ...electronics and computer science
+- 🌱 I’m currently learning ... AI 
 - 💞️ I’m looking to collaborate on ...python
 - 📫 How to reach me ...instagram-@nishanthyadavv_
 
